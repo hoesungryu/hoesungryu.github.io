@@ -1,5 +1,5 @@
-title: Minsuk Sung
-url: "https://github.com/mssung94"
+title: Hoe Sung Ryu
+url: "https://github.com/hoesungryu"
 baseurl: ""
 
 markdown: kramdown
@@ -9,8 +9,8 @@ tracking_id: UA-138665784-2 #
 
 
 footer: no
-footer_url: "https://github.com/mssung94"
-footer_text: "Minsuk Sung"
+footer_url: "https://github.com/hoesungryu"
+footer_text: "Hoe Sung Ryu"
 
 sass:
     style: compressed
@@ -18,13 +18,13 @@ sass:
 
 nav:
  - name: "About"
-   link: ""
- - name: "CV"
-   link: ""
- - name: "Blog"
-   link: "https://minsuksung-ai.tistory.com/"
- - name: "Facebook"
-   link: "https://www.facebook.com/minsuk.stone.sung/"
+#    link: ""
+#  - name: "CV"
+#    link: ""
+#  - name: "Blog"
+#    link: "https://minsuksung-ai.tistory.com/"
+#  - name: "Facebook"
+#    link: "https://www.facebook.com/"
 
 remote_theme: ankitsultana/researcher@gem
 
