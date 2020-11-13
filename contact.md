@@ -3,24 +3,16 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: hoesungryu@korea.ac.kr
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: +82-10-6636-7275
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> Seoul
 >
-> London
->
-> United Kingdom
+> Republic of Korea 
 
 ---
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
