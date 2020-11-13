@@ -27,6 +27,11 @@ If you require any further informationi, please do not hesitate to contact me.
 - Mathematical Modeling & Computing
 
 
+## Publications
+- Unsupervised learning on graphs via Haar scattering, 2019 
+- Analysis of Vision Activity using A.I comparison of Machine Learning Models, 2020, Korean journal of Vision Science
+
+
 ## Teaching Assistant
 |Year|Subject Code|Course|
 |:-----:|----|----|
@@ -58,11 +63,6 @@ If you require any further informationi, please do not hesitate to contact me.
 |Jan 28- Feb2 2018| KIAS |13th KIAS Geometric Winter School|
 |Dec 29-30 2017 |Yonsei University |Machine Learning Coding Winter School|
 |Dec 25-29 2017 |국가수리과학연구소(NIMS)| Study Group with Industry|
-
-
-## Publications
-- Unsupervised learning on graphs via Haar scattering, 2019 
-- Analysis of Vision Activity using A.I comparison of Machine Learning Models, 2020, Korean journal of Vision Science
 
 
 ## Honors & Awards
