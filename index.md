@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## About Me
-<img class="profile-picture" src="profile.jpeg">
+<img class="profile-picture" src="profile.jpg">
 Hi! My name is Hoe Sung Ryu.<p>
 One of my main interests lies in gathering new knowledge as well as deep understanding in various fields as the goal I seek to achieve is to become a researcher who has the ability to enjoy learning while exploring a subject in his full depths.<p>
 If you require any further informationi, please do not hesitate to contact me.
