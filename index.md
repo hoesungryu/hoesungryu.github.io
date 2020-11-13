@@ -18,14 +18,13 @@ If you require any further informationi, please do not hesitate to contact me.
 
 ## Education & Work 
 - Researcher in Yonsei University, departments of the mathematics (Apr. - Oct. 2019)
-- M.S. in Mathematics, Yonsei University _Advisor: Prof. Youngmi Hur_ (2017-2019)
+- M.S. in Mathematics, Yonsei University(2017-2019), _Advisor: Prof. Youngmi Hur_ 
 
 
 ## Research Interest
 - Computer Vision & Emotional touch
 - Decision Making & Reinforcement Learning
 - Mathematical Modeling & Computing
-
 
 
 ## Teaching Assistant
@@ -46,7 +45,8 @@ If you require any further informationi, please do not hesitate to contact me.
 |2020| Intel Korea | Objected Detection|...|
 |2019| Intel Korea | Image Classification|...|
 
-##Selected Meeting 
+
+## Selected Meeting 
 |Date|Organization|Name|
 |:-----:|-------|----|
 |July 2-4, 2019 |국가수리과학연구소(NIMS)|Medical Mathematical Modeling summer school| 
@@ -63,7 +63,6 @@ If you require any further informationi, please do not hesitate to contact me.
 ## Publications
 - Unsupervised learning on graphs via Haar scattering, 2019 
 - Analysis of Vision Activity using A.I comparison of Machine Learning Models, 2020, Korean journal of Vision Science
-
 
 
 ## Honors & Awards
