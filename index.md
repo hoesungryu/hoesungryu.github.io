@@ -56,7 +56,7 @@ If you require any further informationi, please do not hesitate to contact me.
 ## Selected Meeting 
 
 |Date|Organization|Name|
-|:-----:|-------|----|
+|:------:|--------|----|
 |July 2-4, 2019 |국가수리과학연구소(NIMS)|Medical Mathematical Modeling summer school| 
 |April 24-26, 2019|국가수리과학연구소(NIMS)|1st National Institute for Mathematical Sciences moderator program|
 |May 25-26 2018|카이스트(KIAST)|KSIAM 2018 spring conference|
