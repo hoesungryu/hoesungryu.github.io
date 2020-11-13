@@ -18,7 +18,7 @@ If you require any further informationi, please do not hesitate to contact me.
 
 ## Education & Work 
 - Researcher in Yonsei University, departments of the mathematics (Apr. - Oct. 2019)
-- M.S. in Mathematics, Yonsei University(2017-2019), _Advisor: Prof. Youngmi Hur_ 
+- M.S. in Mathematics, Yonsei University(2017-2019), __Advisor: Prof. Youngmi Hur__
 
 
 ## Research Interest
