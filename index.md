@@ -41,7 +41,7 @@ If you require any further informationi, please do not hesitate to contact me.
 |:--:|-------|----|----|
 |Oct. 2020|한국정보화진흥원(NIA) |해커톤맨토|48(hr)|
 |Sep. 2020|한국정보화진흥원(NIA)| 개인정보 익명조치 A.I 교육 |16(hr)|
-|Aug. 2020| 한국직업학교 |자바를 이용한 빅데이터 실무자 양성 교육||88(hr)|
+|Aug. 2020| 한국직업학교 |자바를 이용한 빅데이터 실무자 양성 교육|88(hr)|
 |2020| Intel Korea | Objected Detection|...|
 |2019| Intel Korea | Image Classification|...|
 
