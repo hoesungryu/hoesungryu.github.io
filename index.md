@@ -4,8 +4,8 @@ layout: default
 
 ## About Me
 <img class="profile-picture" src="profile.jpeg">
-Hi! For those of you who don't know me. My name is Hoe Sung Ryu.
-One of my main interests lies in gathering new knowledge as well as deep understanding in various fields as the goal I seek to achieve is to become a researcher who has the ability to enjoy learning while exploring a subject in his full depths.
+Hi! My name is Hoe Sung Ryu.<p>
+One of my main interests lies in gathering new knowledge as well as deep understanding in various fields as the goal I seek to achieve is to become a researcher who has the ability to enjoy learning while exploring a subject in his full depths.<p>
 If you require any further informationi, please do not hesitate to contact me.
 
 - Current Position: Ph.D student <a href="http://xai.korea.ac.kr/">in the Department of Artificial Intelligence at Korea University.</a>  
@@ -29,7 +29,7 @@ If you require any further informationi, please do not hesitate to contact me.
 
 ## Teaching Assistant
 |Year|Subject Code|Course|
-|:--:|---|:---|
+|:--:|----|----|
 |2018|MAT3114-02|Numerical Analysis|
 |2018|MAT1012-07|Calculus 2|
 |2017|MAT2016-02|Engineering Mathematics|
@@ -38,7 +38,7 @@ If you require any further informationi, please do not hesitate to contact me.
 
 ## Activity
 |Date|Organization |Name|hour|
-|:--:|-------|----|---|
+|:--:|-------|----|----|
 |Oct. 2020|한국정보화진흥원(NIA) |해커톤맨토|48(hr)|
 |Sep. 2020|한국정보화진흥원(NIA)| 개인정보 익명조치 A.I 교육 |16(hr)|
 |Aug. 2020| 한국직업학교 |자바를 이용한 빅데이터 실무자 양성 교육||88(hr)|
