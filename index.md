@@ -8,7 +8,7 @@ Hi! My name is Hoe Sung Ryu.
 
 One of my main interests lies in gathering new knowledge as well as deep understanding in various fields as the goal I seek to achieve is to become a researcher who has the ability to enjoy learning while exploring a subject in his full depths.
 
-If you require any further informationi, please do not hesitate to contact me.
+If you require any further information, please do not hesitate to contact me.
 
 - Current Position: Ph.D student <a href="http://xai.korea.ac.kr/">in the Department of Artificial Intelligence at Korea University.</a>  
 - Advisor: Professor <a href="https://scholar.google.com/citations?hl=en&user=VJuuzLwAAAAJ">Christian Wallraven</a> 
@@ -46,8 +46,9 @@ If you require any further informationi, please do not hesitate to contact me.
 
 |Date|Organization|Name|Hour|
 |:-----:|------|----|----|
-|Oct. 2020|한국정보화진흥원(NIA) |해커톤맨토|48(hr)|
+|Oct. 2020|한국정보화진흥원(NIA) |[해커톤 맨토](https://github.com/hoesungryu/2020_DataCreaterCamp)|48(hr)|
 |Sep. 2020|한국정보화진흥원(NIA)| 개인정보 익명조치 A.I 교육 |16(hr)|
+|Aug. 2020|과학기술부/한국전파진흥협회|[블록체인 취업연계 교육과정](https://github.com/hoesungryu/blockchain-devML-course)|40(hr)|
 |Aug. 2020|[한국직업학교](http://www.koreavc.or.kr/) |자바를 이용한 빅데이터 실무자 양성 교육|88(hr)|
 |2020| Intel Korea | Objected Detection|...|
 |2019| Intel Korea | Image Classification|...|
