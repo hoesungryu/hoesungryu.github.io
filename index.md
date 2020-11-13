@@ -56,7 +56,7 @@ If you require any further informationi, please do not hesitate to contact me.
 ## Selected Meeting 
 
 |Date|Organization|Name|
-|:------:|--------|----|
+|:-------:|---------|----|
 |July 2-4, 2019 |국가수리과학연구소(NIMS)|Medical Mathematical Modeling summer school| 
 |April 24-26, 2019|국가수리과학연구소(NIMS)|1st National Institute for Mathematical Sciences moderator program|
 |May 25-26 2018|카이스트(KIAST)|KSIAM 2018 spring conference|
@@ -71,7 +71,7 @@ If you require any further informationi, please do not hesitate to contact me.
 ## Honors & Awards
 
 |Date|Award|Organization|Place|  
-|:-----:|-------|----|----|  
+|:------:|--------|----|----|  
 |Nov. 2019|[제7회 빅콘테스트 챔피언스리그](https://www.bigcontest.or.kr/introduce/history2019.php) | 과학기술부 / 한국정보화진흥원 | 장려상 |
 |Sep. 2019|우주전파재난 예측 AI 경진대회 | 국립전파연구원 | 본선 7등 |  
 |Sep. 2019|Big data education for university students| 과학기술부/한국데이터산업진흥원 |장려상|
