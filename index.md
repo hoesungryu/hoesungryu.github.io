@@ -18,7 +18,7 @@ If you require any further informationi, please do not hesitate to contact me.
 
 ## Education & Work 
 - Researcher in Yonsei University, departments of the mathematics (Apr. - Oct. 2019)
-- M.S. in Mathematics, Yonsei University(2017-2019), Advisor: Prof. Youngmi Hur
+- M.S. in Mathematics, Yonsei University(2017-2019),Advisor: Prof. Youngmi Hur
 
 
 ## Research Interest
@@ -33,7 +33,8 @@ If you require any further informationi, please do not hesitate to contact me.
 
 
 ## Teaching Assistant
-|Date|Subject Code|Course|
+
+|Date|Subject Code|Subject|
 |:-----:|----|----|
 |2018|MAT3114-02|Numerical Analysis|
 |2018|MAT1012-07|Calculus 2|
@@ -42,7 +43,8 @@ If you require any further informationi, please do not hesitate to contact me.
 
 
 ## Activity
-|Date|Organization |Name|hour|
+
+|Date|Organization|Name|Hour|
 |:-----:|------|----|----|
 |Oct. 2020|한국정보화진흥원(NIA) |해커톤맨토|48(hr)|
 |Sep. 2020|한국정보화진흥원(NIA)| 개인정보 익명조치 A.I 교육 |16(hr)|
@@ -52,6 +54,7 @@ If you require any further informationi, please do not hesitate to contact me.
 
 
 ## Selected Meeting 
+
 |Date|Organization|Name|
 |:-----:|-------|----|
 |July 2-4, 2019 |국가수리과학연구소(NIMS)|Medical Mathematical Modeling summer school| 
@@ -66,6 +69,7 @@ If you require any further informationi, please do not hesitate to contact me.
 
 
 ## Honors & Awards
+
 |Date|Award|Organization|Place|  
 |:-----:|-------|----|----|  
 |Nov. 2019|[제7회 빅콘테스트 챔피언스리그](https://www.bigcontest.or.kr/introduce/history2019.php) | 과학기술부 / 한국정보화진흥원 | 장려상 |
