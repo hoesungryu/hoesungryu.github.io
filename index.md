@@ -33,7 +33,7 @@ If you require any further informationi, please do not hesitate to contact me.
 
 
 ## Teaching Assistant
-|Year|Subject Code|Course|
+|Date|Subject Code|Course|
 |:-----:|----|----|
 |2018|MAT3114-02|Numerical Analysis|
 |2018|MAT1012-07|Calculus 2|
@@ -46,7 +46,7 @@ If you require any further informationi, please do not hesitate to contact me.
 |:-----:|-------|----|----|
 |Oct. 2020|한국정보화진흥원(NIA) |해커톤맨토|48(hr)|
 |Sep. 2020|한국정보화진흥원(NIA)| 개인정보 익명조치 A.I 교육 |16(hr)|
-|Aug. 2020| 한국직업학교 |자바를 이용한 빅데이터 실무자 양성 교육|88(hr)|
+|Aug. 2020|[한국직업학교](http://www.koreavc.or.kr/) |자바를 이용한 빅데이터 실무자 양성 교육|88(hr)|
 |2020| Intel Korea | Objected Detection|...|
 |2019| Intel Korea | Image Classification|...|
 
@@ -55,18 +55,18 @@ If you require any further informationi, please do not hesitate to contact me.
 |Date|Organization|Name|
 |:-----:|-------|----|
 |July 2-4, 2019 |국가수리과학연구소(NIMS)|Medical Mathematical Modeling summer school| 
-|April 24-26, 2019|국가수리과학연구소(NIMS|1st National Institute for Mathematical Sciences moderator program|
-|May 25-26 2018|KIAST|KSIAM 2018 spring conference|
-|May 17-19 2018|SNU|2018 Conference on Math to Industry|
-|Jun 25-29 2018 |KIAS| CAC SCHOOL|
+|April 24-26, 2019|국가수리과학연구소(NIMS)|1st National Institute for Mathematical Sciences moderator program|
+|May 25-26 2018|카이스트(KIAST)|KSIAM 2018 spring conference|
+|May 17-19 2018|서울대학교(SNU)|2018 Conference on Math to Industry|
+|Jun 25-29 2018 |고등과학원(KIAS)| CAC SCHOOL|
 |April 5-6 2018 |IEEE| FICC in Singapore |
-|Jan 28- Feb2 2018| KIAS |13th KIAS Geometric Winter School|
-|Dec 29-30 2017 |Yonsei University |Machine Learning Coding Winter School|
+|Jan 28- Feb2 2018|고등과학원(KIAS)|13th KIAS Geometric Winter School|
+|Dec 29-30 2017 |연세대학교(Yonsei Univ.)|Machine Learning Coding Winter School|
 |Dec 25-29 2017 |국가수리과학연구소(NIMS)| Study Group with Industry|
 
 
 ## Honors & Awards
-|Year|Award|Organization|Place|  
+|Date|Award|Organization|Place|  
 |:-----:|-------|----|----|  
 |Nov. 2019|[제7회 빅콘테스트 챔피언스리그](https://www.bigcontest.or.kr/introduce/history2019.php) | 과학기술부 / 한국정보화진흥원 | 장려상 |
 |Sep. 2019|우주전파재난 예측 AI 경진대회 | 국립전파연구원 | 본선 7등 |  
