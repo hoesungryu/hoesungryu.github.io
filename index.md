@@ -12,7 +12,6 @@ If you require any further information, please do not hesitate to contact me.
 
 - Current Position: Ph.D student <a href="http://xai.korea.ac.kr/">in the Department of Artificial Intelligence at Korea University.</a>  
 - Advisor: Professor <a href="https://scholar.google.com/citations?hl=en&user=VJuuzLwAAAAJ">Christian Wallraven</a> 
-- Phone : +82-10-6636-7275
 - E-mail: hoesungryu@korea.ac.kr
 
 
@@ -32,16 +31,6 @@ If you require any further information, please do not hesitate to contact me.
 - Analysis of Vision Activity using A.I comparison of Machine Learning Models, 2020, Korean journal of Vision Science
 
 
-## Teaching Assistant
-
-|Date|Subject Code|Subject|
-|:-----:|----|----|
-|2018|MAT3114-02|Numerical Analysis|
-|2018|MAT1012-07|Calculus 2|
-|2017|MAT2016-02|Engineering Mathematics|
-|2017|MAT1016-06|Calculus 1|
-
-
 ## Activity
 ### Teaching Experiences
 
@@ -52,6 +41,23 @@ If you require any further information, please do not hesitate to contact me.
 |Aug. 2020|과학기술부/한국전파진흥협회|[블록체인 취업연계 교육과정](https://github.com/hoesungryu/blockchain-devML-course)|40(hr)|
 |Aug. 2020|[한국직업학교](http://www.koreavc.or.kr/) |자바를 이용한 빅데이터 실무자 양성 교육|88(hr)|
 |Jul. 2020|[Cogsys Lab](http://cogsys.korea.ac.kr/Cognitive_Systems.html)|[Hands on Pytorch(for BCE students)](https://github.com/hoesungryu/cogsys_pytorch))|30(hr)
+
+
+### Teaching Assistant(Yonsei University)
+
+|Date|Subject Code|Subject|
+|:-----:|----|----|
+|2018|MAT3114-02|Numerical Analysis|
+|2018|MAT1012-07|Calculus 2|
+|2017|MAT2016-02|Engineering Mathematics|
+|2017|MAT1016-06|Calculus 1|
+
+### Teaching Assistant(Company)
+
+|Date|Organization|Name|
+|:-----:|----|----|
+|Dec 2020 ~ |UpStage X NaverConnected|BootCamp_AI_Tech|
+|Jan 8,11 2021|Fast Camp|SK 신입사원교육|
 
 ### Projects
 
