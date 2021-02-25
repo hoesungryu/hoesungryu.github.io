@@ -86,6 +86,7 @@ If you require any further information, please do not hesitate to contact me.
 
 |Date|Award|Organization|Place|  
 |:-------:|--------|----|----|  
+|Feb. 2020| 2021 구강계질환 의료영상 AI 경진 대회 |삼성서울병원 / 아주대학교병원 / 한국지능정보사회진흥원 | 3등 |
 |Nov. 2019|[제7회 빅콘테스트 챔피언스리그](https://www.bigcontest.or.kr/introduce/history2019.php) | 과학기술부 / 한국정보화진흥원 | 장려상 |
 |Sep. 2019|우주전파재난 예측 AI 경진대회 | 국립전파연구원 | 본선 7등 |  
 |Sep. 2019|Big data education for university students| 과학기술부/한국데이터산업진흥원 |장려상|
