@@ -32,7 +32,7 @@ If you require any further information, please do not hesitate to contact me.
 |Predicting decision-making in the future: Human versus Machine| 2021, Asian Conference on Pattern Recognition(ACPR)|1st|Summit|
 |"Who decides? Personality traits and heart rate predict emergency decision-making in conditionally automated driving"| 2021, IEEE Intelligent Transportation Systems Transactions|2nd|Summit|
 |Analysis of Vision Activity using A.I comparison of Machine Learning Models| 2020, Korean journal of Vision Science|2nd|Accept|
-|Unsupervised learning on graphs via Haar scattering, 2019| Master Thesis|-|-|
+|Unsupervised learning on graphs via Haar scattering| 2019, Master Thesis|-|-|
 
 ## Activity
 ### Teaching Experiences
