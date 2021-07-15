@@ -30,11 +30,11 @@ If you require any further information, please do not hesitate to contact me.
 
 ## Publications
 |Title|Journal/Conference|Author|Progress|
-|:---|---:|:--:|:--:|
+|:----------------------|---:|:--:|:--:|
 |Predicting decision-making in the future: Human versus Machine| 2021, Asian Conference on Pattern Recognition(ACPR)|1st|Summit|
 |Who decides? Personality traits and heart rate predict emergency decision-making in conditionally automated driving| 2021, IEEE Intelligent Transportation Systems Transactions|2nd|Summit|
 |Analysis of Vision Activity using A.I comparison of Machine Learning Models| 2020, Korean journal of Vision Science|2nd|Accept|
-|Unsupervised learning on graphs via Haar scattering| 2019, Master Thesis|-|-|
+|Unsupervised learning on graphs via Haar scattering| 2019, Master Thesis| - | - |
 
 ## Activity
 ### Teaching Experiences
@@ -45,7 +45,7 @@ If you require any further information, please do not hesitate to contact me.
 |Sep. 2020|한국정보화진흥원(NIA)| 개인정보 익명조치 A.I 교육 |16(hr)|
 |Aug. 2020|과학기술부/한국전파진흥협회|[블록체인 취업연계 교육과정](https://github.com/hoesungryu/blockchain-devML-course)|40(hr)|
 |Aug. 2020|[한국직업학교](http://www.koreavc.or.kr/) |자바를 이용한 빅데이터 실무자 양성 교육|88(hr)|
-|Jul. 2020|[Cogsys Lab](http://cogsys.korea.ac.kr/Cognitive_Systems.html)|[Hands on Pytorch(for BCE students)](https://github.com/hoesungryu/cogsys_pytorch))|30(hr)
+|Jul. 2020|[Cogsys Lab](http://cogsys.korea.ac.kr/Cognitive_Systems.html)|[Hands on Pytorch(for BCE students)](https://github.com/hoesungryu/cogsys_pytorch))|30(hr)|
 
 
 ### Teaching Assistant(Yonsei University)
