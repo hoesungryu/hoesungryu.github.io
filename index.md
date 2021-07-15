@@ -27,8 +27,14 @@ If you require any further information, please do not hesitate to contact me.
 
 
 ## Publications
-- Unsupervised learning on graphs via Haar scattering, 2019 
-- Analysis of Vision Activity using A.I comparison of Machine Learning Models, 2020, Korean journal of Vision Science
+|Title|Journal/Conference|Author|Progress|
+|:-------|:--------------------:|:----:|
+|Predicting decision-making in the future: Human versus Machine, 2021|Asian Conference on Pattern Recognition(ACPR)|1st|Summit|
+|"Who decides? Personality traits and heart rate predict emergency decision-making in conditionally automated driving", 2021|IEEE Intelligent Transportation Systems Transactions|2nd|Summit|
+|Analysis of Vision Activity using A.I comparison of Machine Learning Models, 2020|Korean journal of Vision Science|2nd|Accept|
+|Unsupervised learning on graphs via Haar scattering, 2019| Master Thesis|\-|\-|
+<!-- - Analysis of Vision Activity using A.I comparison of Machine Learning Models, 2020, Korean journal of Vision Science -->
+<!-- - Unsupervised learning on graphs via Haar scattering, 2019 Master thesis. -->
 
 
 ## Activity
@@ -56,8 +62,8 @@ If you require any further information, please do not hesitate to contact me.
 
 |Date|Organization|Name|
 |:-----:|----|----|
-|Dec 2020 ~ |UpStage X NaverConnected|BootCamp_AI_Tech|
-|Jan 8,11 2021|Fast Camp|SK 신입사원교육|
+|Dec 2020 - Mar 2021|UpStage X NaverConnected|BootCamp_AI_Tech|
+|Jan 8,11 2021|Fast Camp|Training for new employees of SK|
 
 ### Projects
 
