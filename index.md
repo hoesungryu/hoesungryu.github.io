@@ -21,9 +21,11 @@ If you require any further information, please do not hesitate to contact me.
 
 
 ## Research Interest
-- Computer Vision & Emotional touch
-- Decision Making & Reinforcement Learning
+- Human and Machine Interaction
+- Decision-Making
+- Computer Vision(Video Analysis) & Future Prediction
 - Mathematical Modeling & Computing
+<!-- - Decision Making & Reinforcement Learning -->
 
 
 ## Publications
