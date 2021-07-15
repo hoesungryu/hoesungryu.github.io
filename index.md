@@ -77,7 +77,7 @@ If you require any further information, please do not hesitate to contact me.
 |2019| Intel Korea | Image Classification|
 
 
-## Selected Meeting 
+## Attended Meeting 
 
 |Date|Organization|Name|
 |:--------:|------------|----|
